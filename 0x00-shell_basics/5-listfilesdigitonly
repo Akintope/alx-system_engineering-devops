@@ -1,13 +1,2 @@
 #!/bin/bash
-ls -la
-total 40
-drwxr-xr-x 2 root root   207 Sep 28 09:14 .
-drwxr-xr-x 4 root root    60 Sep 28 07:30 ..
--rwxr--r-- 1 root root    16 Sep 28 07:59 0-current_working_directory
--rw-r--r-- 1 root root 12288 Sep 28 07:54 .0-current_working_directory.swp
--rwxr--r-- 1 root root    15 Sep 28 08:16 1-listit
--rwxr--r-- 1 root root    17 Sep 28 08:37 2-bring_me_home
--rwxr--r-- 1 root root    18 Sep 28 08:55 3-listfiles
--rwxr--r-- 1 root root    19 Sep 28 09:05 4-listmorefiles
--rw-r--r-- 1 root root    19 Sep 28 09:14 5-listfilesdigitonly
--rw-r--r-- 1 root root    11 Sep 28 07:31 README.md
+ls -al
